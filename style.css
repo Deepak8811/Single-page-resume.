@@ -1,6 +1,6 @@
 body {
     font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 13px;
+    font-size: 12.5px;
     max-width: 960px;
     margin: auto;
   }
@@ -29,7 +29,7 @@ body {
   }
   
   section {
-    margin: auto 1em 3em 1.5em;
+    margin: auto 1em 1.5em 1.5em;
   }
   
   i {
@@ -61,4 +61,5 @@ body {
   }
   a{
     text-decoration: none;
+    color: blue;
   }
